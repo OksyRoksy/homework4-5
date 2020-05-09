@@ -76,11 +76,11 @@ figcaption{
 
 .baner{
     border-top: 1px solid #128aa7;
-    border-bottom: 1px solid #128aa7;
+    border-bottom: 0,5px solid #128aa7;
 }
 
 .nav-menu {
-    border-top: 4px solid #cacbcb;
+    border-top: 2px solid #cacbcb;
     height: 30px;
     background-color: #343434;
     font-size: 14px;
@@ -95,14 +95,11 @@ figcaption{
 
 ul .nav-menu{
     width: 100%;
-    
 }
 
 .nav-menu a{
     color: white;
     text-decoration: none;
-    
-    
 }
 
 .nav-menu li{
@@ -111,7 +108,6 @@ ul .nav-menu{
     padding-right: 30px;
     margin-right: 0 auto;
     padding-top: 7px;
-    
 }
 
 div.main>div{
@@ -152,7 +148,7 @@ p {
     padding-bottom: 10px;
 }
 
-.copy-right{
+.copy-right span{
     text-align: center;
     font-size: 10px;
     font-family: 'Open Sans Condensed', sans-serif;
@@ -168,9 +164,6 @@ p {
     color: #c8c8c8;
     margin-top: 0 auto;  
     margin-left: -50px; 
- 
-
-    
 }
 
 .sub-menu li{
